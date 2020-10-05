@@ -11,3 +11,12 @@ C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.p
 C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\bin\Debug\Graden.exe.config
 C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\obj\Debug\Graden.exe
 C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\obj\Debug\Graden.pdb
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\bin\Debug\Graden.exe.config
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.exe
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.pdb
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\bin\Debug\Graden.exe
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\bin\Debug\Graden.pdb
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.frmTermometer.resources
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.Properties.Resources.resources
+C:\Users\Admin\Documents\git\voorb2020a\graden1\test1\Graden\obj\Debug\Graden.csproj.GenerateResource.Cache

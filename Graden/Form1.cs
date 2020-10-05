@@ -30,12 +30,12 @@ namespace Graden
 
         private void btnBerekenen_Click(object sender, EventArgs e)
         {
-            int Graden;
-            int Farenheit;
+            decimal Graden;
+            decimal Farenheit;
 
             Graden = Convert.ToInt32 (txtGradenCelsius.Text);
 
-            Farenheit = (9 / 5) * Graden + 32;
+            Farenheit = ((decimal)9.0 / 5) * Graden + 32;
 
             txtFahrenheit.Text = Convert.ToString (Farenheit);
 
