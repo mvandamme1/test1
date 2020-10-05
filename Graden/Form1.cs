@@ -35,9 +35,17 @@ namespace Graden
 
             Graden = Convert.ToInt32 (txtGradenCelsius.Text);
 
-            Farenheit = ((decimal)9.0 / 5) * Graden + 32;
+
+            Farenheit = (35/ 5) * Graden + 32;
+
+        
 
             txtFahrenheit.Text = Convert.ToString (Farenheit);
+
+        }
+
+        private void frmTermometer_Load(object sender, EventArgs e)
+        {
 
         }
     }

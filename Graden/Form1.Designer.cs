@@ -104,7 +104,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkKhaki;
+            this.BackColor = System.Drawing.Color.Maroon;
             this.ClientSize = new System.Drawing.Size(347, 246);
             this.Controls.Add(this.txtFahrenheit);
             this.Controls.Add(this.txtGradenCelsius);
@@ -114,7 +114,8 @@
             this.Controls.Add(this.btnWissen);
             this.Controls.Add(this.btnSluiten);
             this.Name = "frmTermometer";
-            this.Text = "Termometer";
+            this.Text = "Thermometer";
+            this.Load += new System.EventHandler(this.frmTermometer_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
