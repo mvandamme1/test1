@@ -1,0 +1,13 @@
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\bin\Debug\Graden.exe.config
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\bin\Debug\Graden.exe
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\bin\Debug\Graden.pdb
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.csprojAssemblyReference.cache
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.frmTermometer.resources
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.Properties.Resources.resources
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.csproj.GenerateResource.cache
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.csproj.CoreCompileInputs.cache
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.exe
+C:\Users\Gebruikersnaam\source\repos\huistaaken\Graden\Graden\obj\Debug\Graden.pdb
+C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\bin\Debug\Graden.exe.config
+C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\obj\Debug\Graden.exe
+C:\Users\Admin\Downloads\2020-10-02 taak C boek oef2-3-4 pag 57-58 (1)\2020-10-02 taak C boek oef2-3-4 pag 57-58\OBrien Leeroy\Graden\Graden\obj\Debug\Graden.pdb
