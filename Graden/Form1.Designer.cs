@@ -39,7 +39,7 @@
             // 
             // btnSluiten
             // 
-            this.btnSluiten.Location = new System.Drawing.Point(35, 127);
+            this.btnSluiten.Location = new System.Drawing.Point(251, 127);
             this.btnSluiten.Name = "btnSluiten";
             this.btnSluiten.Size = new System.Drawing.Size(84, 109);
             this.btnSluiten.TabIndex = 0;
@@ -59,7 +59,7 @@
             // 
             // btnBerekenen
             // 
-            this.btnBerekenen.Location = new System.Drawing.Point(240, 127);
+            this.btnBerekenen.Location = new System.Drawing.Point(29, 125);
             this.btnBerekenen.Name = "btnBerekenen";
             this.btnBerekenen.Size = new System.Drawing.Size(84, 109);
             this.btnBerekenen.TabIndex = 2;
@@ -104,6 +104,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.ForestGreen;
             this.ClientSize = new System.Drawing.Size(347, 246);
             this.Controls.Add(this.txtFahrenheit);
             this.Controls.Add(this.txtGradenCelsius);
@@ -113,7 +114,7 @@
             this.Controls.Add(this.btnWissen);
             this.Controls.Add(this.btnSluiten);
             this.Name = "frmTermometer";
-            this.Text = "Termometer";
+            this.Text = "Thermometer";
             this.ResumeLayout(false);
             this.PerformLayout();
 

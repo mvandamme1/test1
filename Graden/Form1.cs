@@ -35,7 +35,7 @@ namespace Graden
 
             Graden = Convert.ToInt32 (txtGradenCelsius.Text);
 
-            Farenheit = (9 / 5) * Graden + 32;
+            Farenheit = (35/ 5) * Graden + 32;
 
             txtFahrenheit.Text = Convert.ToString (Farenheit);
 
